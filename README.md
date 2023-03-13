@@ -1,5 +1,5 @@
 
-<h2> Hi, I'm Kev! <img src="https://media.giphy.com/media/WPvTKrRX557cWkPHes/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Kev! <img src="https://media.giphy.com/media/WPvTKrRX557cWkPHes/giphy.gif" width="50" height="30"></h2>
 
 <p>
   <em>Software Enginner at <a href="https://www.frostyresponse.com">Frosty Response</a>
@@ -9,11 +9,9 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/kevinize?style=social)
-
-[![Twitter: @kevinize](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: kevinize](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinize/)](https://www.linkedin.com/in/kevinize/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/vinn2010)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kevinize?style=social)](https://twitter.com/KevinIze)
+[![Linkedin: kevinize](https://img.shields.io/badge/-kevinize-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinize/)](https://www.linkedin.com/in/kevinize/)
+[![GitHub vinn2010](https://img.shields.io/github/followers/vinn2010?label=follow&style=social)](https://github.com/vinn2010)
 
 
 <!--
