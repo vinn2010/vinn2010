@@ -4,7 +4,7 @@
 <p>
   <em>Software Enginner at <a href="https://www.frostyresponse.com">Frosty Response</a>
     </br>
-  Building ✨ 10 Serious Projects✨ with Next.js & Typescript. And documenting it at <a href="https://www.kevinize.com">Kevinize.com</a>
+  Building ✨ 10 Serious Projects ✨ with Next.js & Typescript. And documenting it at <a href="https://www.kevinize.com">Kevinize.com</a>
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kevinize?style=social)](https://twitter.com/KevinIze)
