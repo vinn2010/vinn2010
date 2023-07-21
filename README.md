@@ -2,10 +2,13 @@
 <h2> Hi, I'm Kev! <img src="https://media.giphy.com/media/WPvTKrRX557cWkPHes/giphy.gif" width="50" height="60"></h2>
 
 <p>
-  <em>Software Enginner/Web Developer at <a href="https://www.frostyresponse.com">Frosty Response</a>
+  <em>Software Enginner/Web Developer.
     </br>
-  Building ✨ Project Sweet ✨ with Typescript. And documenting it at <a href="https://www.kevinize.com">Kevinize.com</a>
-</em></p>
+  Building ✨ Report Sweet ✨.
+    </br>
+  Open source contributer.
+</em>
+</p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kevinize?style=social)](https://twitter.com/KevinIze)
 [![Linkedin: kevinize](https://img.shields.io/badge/-kevinize-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevinize/)](https://www.linkedin.com/in/kevinize/)
