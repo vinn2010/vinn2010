@@ -1,5 +1,5 @@
 
-<h2> Hi, I'm Kev! <img src="https://media.giphy.com/media/WPvTKrRX557cWkPHes/giphy.gif" width="50" height="60"></h2>
+<h2> Hi, I'm Kev!</h2>
 
 <p>
   <em>Software Enginner/Web Developer.
